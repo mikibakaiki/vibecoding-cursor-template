@@ -39,8 +39,6 @@ wheels/
 # IDEs
 .vscode/*
 !.vscode/settings.json
-!.vscode/terminal-init.sh
-!.vscode/terminal-init.ps1
 .idea/
 *.swp
 *.swo
